@@ -1,10 +1,9 @@
-baseURL: https://www.example.org/
+baseURL:  yscman.github.io
 languageCode: en-us
 theme: aafu
 params:
   aboutme:
-    description: This is a demo of the `aafu` theme. It has `light`, `dark`, `ocean`,
-      and `pinkish` themes.
+    description: This is my personal website.
     icon: fas fa-user
     title: About Me
   author: Darshan Baral
